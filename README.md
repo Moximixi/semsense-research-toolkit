@@ -92,6 +92,14 @@ semsense-research-toolkit/
 
 ------
 
+## 项目声明
+本项目的作者及单位：
+```
+项目名称：Multidimensional Text Semantics and Sentiment Analysis Research Toolkit
+项目作者：Wenxiao Liu, Zhiquan Liu
+作者单位：暨南大学网络空间安全学院
+```
+
 ## 开源许可 / Open Source License
 
 本项目采用 [MIT License](https://www.google.com/search?q=https://opensource.org/licenses/MIT) 开源协议。
